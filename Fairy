@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The life of Mermaid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="topline">
+    <h1 >The life of Mermaid</h1>
+</div>
+
+
+   <div class="logo">
+     <img src="./mermaid-2.jpg">
+
+   </div>
+
+   <div class="container">
+   
+    <h1>Intro:</h1><br>
+    <p>The story begins with Knight Huldbrand is in the woods and comes across a cabin. 
+        He is welcomed by the fisherman and his wife and is treated as a guest in their home.
+         Knight Hulbrand meets their vivacious eighteen-year old foster daughter, Undine. 
+         Then the fisherman tells Knight Hulbrand the story of how his daughter had drowned and that very same day, Undine had appeared on their doorstep.
+         And how the fisherman and his wife, had raised Undine as their own. 
+         Undine is intrigued why Hulbrand was in the woods, so he tells her how he was smitten with the Dukes foster daughter, Bertalda.
+         While Bertalda and Hulbrand flirted, she gives him her glove and dares him to explore the dark forest.
+         Hulbrand agrees and ventures into the forest, where he encounters dark spirits and creatures, and eventually finds himself at the Fishermans cottage. </p>
+   </div>
+<br>
+
+<div class="con1">
+    <img src="./mm4.jpg">
+    <h1>Histroy:</h1>
+    <br>
+<p>
+    Everyone is stranded inside the house, after a violent storm and flood occurs. 
+    During this chaotic time, Hulbrand and Undine fall in love. 
+    Undine has a very precocious personality and at times, appears to have control over the weather. 
+    A priest named Father Heilmann is thrown overboard and finds himself at the fishermans house.
+     Soon after, Hulbrand asks the priest to marry him and Undine immediately.
+     Father Heilmann agrees to marry the young couple.
+     The day after the wedding, and Undines demeanor is different than it was before.
+      Shes softer, kind, and gentle. 
+      Undine explains to her new husband, Hulbrand, that elemental beings exist and that she is in fact, a water spirit. 
+      She then goes on to explain that water spirits do not have souls, and can only obtain a soul by marrying a human. 
+      Undine further explains, that her parents sent her to go live among humans, in the hopes that she can gain a soul that way and that her marriage to Hulbrand has fulfilled that promise. 
+      Undine fears that Hulbrand will abandon her, once he learns the truth about her, but instead, he promises to never leave her. 
+      The flood begins to recede, so Hulbrand and Undine decide to depart to Hulbrands home.
+       During their journey, they come across Kuhleborn, a shape-shifting water spirit and Undines uncle.
+        Undine becomes frightened and begs her uncle to leave them alone, so they can proceed on their journey.
+       Hulbrand attempts to attack Kuhleborn, but Kuhleborn vanishes into the waterfall. 
+</p>
+</div>
+   
+
+
+<div class="con2">
+    <img src="/images/mm5.jpg">
+    <h1>Illustration of Undine by Arthur Rackham (1909):</h1>
+    <br>
+    <p>
+        When Hulbrand arrives home, hes greeted with a warm welcome and so is Undine.
+         Bertalda is deeply upset to discover that Hulbrand is married to another woman and decides to become friends with Undine.
+          One day, Kuhleborn comes to visit Undine and tells her that Bertalda real parents are her foster parents, the fisherman and his wife.
+       
+          Bertalda is the child, that they had believed to have drowned, but had not.
+            Bertalda is devastated and humiliated to learn that her real family is poor and that she isnt of noble descent. 
+           She publicly humiliates Undine, by calling her a witch. Undines theory is proven correct by Bertalda birthmarks. 
+
+After learning of Bertaldas horrible behavior towards Undine, both her foster parents and her biological parents disown her, leaving her destitute and desperate. 
+Bertalda goes to Undine and begs for forgiveness. Undine accepts her apology and allows her to be remain a guest at her home, where sparks fly once more between Bertalda and Hulbrand, leading to tensions and drama amongst Undine, Bertalda, and Hulbrand.
+
+    </p>
+</div>
+
+  
+    
+</body>
+</html>
